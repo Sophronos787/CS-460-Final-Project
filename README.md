@@ -65,19 +65,11 @@ main.py           # CLI entry point
 subset (17 missions, 56 distinct items) pulled directly from the official
 Warframe PC drop-table page
 (`warframe-web-assets.nyc3.cdn.digitaloceanspaces.com/uploads/cms/...html`,
-"Last Update: 25 June, 2026"), not the earlier placeholder sample. It's
-still a subset rather than a full scrape — the source page lists drops for
+"Last Update: 25 June, 2026"). It's
+still a subset rather than a full scrape, the source page lists drops for
 hundreds of missions across every planet, and pulling all of it would bloat
-the JSON far past what's useful for a demo — but every item and every
+the JSON far past what's useful for a demo, but every item and every
 percentage in the file is real, copied as-listed from the site.
-
-`rotation_weights.json` replaces the placeholder weights mentioned in the
-original report's Limitations/Future Work section. Each `"mission|item"`
-key maps to `1 / (listed drop chance)`, i.e. the expected number of
-mission runs needed to obtain that item at least once — a real, if
-approximate, stand-in for "how many rotations does this actually take."
-`wbd/data.py`'s `load_rotation_weights()` parses the `"mission|item"` keys
-back into the `(mission, item)` tuple keys `find_missions()` expects.
 
 One nice real find from the data: Saturn's Conclave missions (e.g.
 `Cephalon Capture (Saturn, Conclave)`) drop Control Module, Neural Sensors,
