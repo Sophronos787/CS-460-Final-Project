@@ -73,7 +73,7 @@ percentage in the file is real, copied as-listed from the site.
 
 One nice real find from the data: Saturn's Conclave missions (e.g.
 `Cephalon Capture (Saturn, Conclave)`) drop Control Module, Neural Sensors,
-*and* Orokin Cell together in Rotation B — but each at only a 0.25%
+*and* Orokin Cell together in Rotation B, but each at only a 0.25%
 ("Legendary") chance. Unweighted set cover happily picks that single
 mission to knock out three needed items at once; weighted set cover
 correctly avoids it for Orokin Cell (a 400-run expected wait) in favor of
@@ -81,7 +81,7 @@ correctly avoids it for Orokin Cell (a 400-run expected wait) in favor of
 the Conclave mission for Control Module and Neural Sensors, which have no
 faster source in this dataset. Try `python main.py --items-file
 needed_items.txt` vs. `--no-weights` to see the difference. The algorithm
-itself is still fully data-agnostic — swapping in a larger dataset requires
+itself is still fully data-agnostic, swapping in a larger dataset requires
 no code changes, only a bigger JSON file.
 
 ## Algorithm summary
