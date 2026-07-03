@@ -1,0 +1,116 @@
+{
+  "Apollodorus (Mercury, Survival)": [
+    "Serration",
+    "Steel Fiber",
+    "Hornet Strike",
+    "Intensify"
+  ],
+  "Odin (Mercury, Interception)": [
+    "Serration",
+    "Hornet Strike",
+    "Reflex Coil",
+    "Deep Freeze"
+  ],
+  "Suisei (Mercury, Spy)": [
+    "Serration",
+    "Hornet Strike",
+    "Metal Auger",
+    "Ivara Systems Blueprint"
+  ],
+  "Ophelia (Uranus, Survival)": [
+    "Split Chamber",
+    "Steel Fiber",
+    "Serration",
+    "Hell's Chamber",
+    "Hornet Strike",
+    "Flow",
+    "Stabilizer"
+  ],
+  "Stephano (Uranus, Defense)": [
+    "Split Chamber",
+    "Vital Sense",
+    "Metal Auger",
+    "Ravage",
+    "Continuity",
+    "Master Thief"
+  ],
+  "Adrastea (Jupiter, Caches)": [
+    "Orokin Cell",
+    "Gallium",
+    "Neurodes",
+    "Tellurium",
+    "Argon Crystal",
+    "Nitain Extract"
+  ],
+  "Carpo (Jupiter, Caches)": [
+    "Orokin Cell",
+    "Gallium",
+    "Neurodes",
+    "2X Orokin Cell"
+  ],
+  "Cephalon Capture (Saturn, Conclave)": [
+    "Control Module",
+    "Neural Sensors",
+    "Orokin Cell",
+    "Gallium",
+    "Morphics",
+    "Argon Crystal",
+    "Neurodes",
+    "Forma Blueprint"
+  ],
+  "Team Annihilation (Saturn, Conclave)": [
+    "Control Module",
+    "Neural Sensors",
+    "Orokin Cell",
+    "Gallium",
+    "Morphics",
+    "Argon Crystal",
+    "Neurodes",
+    "Forma Blueprint"
+  ],
+  "Tyana Pass (Mars, Defense)": [
+    "Citrine Blueprint",
+    "Citrine Chassis Blueprint",
+    "Citrine Neuroptics Blueprint",
+    "Citrine Systems Blueprint",
+    "Arcane Double Back",
+    "Arcane Steadfast"
+  ],
+  "The Ropalolyst (Jupiter, Assassination Extra)": [
+    "Wisp Blueprint",
+    "Wisp Chassis Blueprint",
+    "Wisp Neuroptics Blueprint",
+    "Wisp Systems Blueprint"
+  ],
+  "War (Mars, Assassination)": [
+    "Excalibur Neuroptics Blueprint",
+    "Excalibur Chassis Blueprint",
+    "Excalibur Systems Blueprint"
+  ],
+  "Tolstoj (Mercury, Assassination)": [
+    "Seer Blueprint",
+    "Seer Barrel",
+    "Seer Receiver"
+  ],
+  "Fossa (Venus, Assassination)": [
+    "Rhino Neuroptics Blueprint",
+    "Rhino Chassis Blueprint",
+    "Rhino Systems Blueprint"
+  ],
+  "Vesper Relay (Venus, Follie's Hunt)": [
+    "Follie Blueprint",
+    "Enkaus Blueprint",
+    "Medallion"
+  ],
+  "Saya's Visions (Earth, Shrine Defense)": [
+    "Koumei Blueprint",
+    "Higasa Blueprint",
+    "Amanata Blueprint"
+  ],
+  "Brutus (Uranus, Ascension)": [
+    "Jade Chassis Blueprint",
+    "Evensong Blueprint",
+    "Cantare Blueprint",
+    "Harmony Blueprint"
+  ]
+}
